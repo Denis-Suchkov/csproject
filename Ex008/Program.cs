@@ -42,5 +42,5 @@ while(count < 10000)
 
     Console.SetCursorPosition(x, y);
     Console.WriteLine("+");
-    count++;    //count = count + 1;
+    count++;    //count = count + 1
 }
